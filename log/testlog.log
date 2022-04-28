@@ -133,4 +133,153 @@
   2022-04-28 12:04:47 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
   2022-04-28 12:04:52 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
   2022-04-28 12:04:52 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:28:23 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:28:23 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:28:28 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:28:30 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:28:35 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:28:35 INFO  Cucumber Axess Website:131 - ****************Academy page clicked*************************
+  2022-04-28 13:28:35 INFO  Cucumber Axess Website:138 - ****************Verified Academy Page*************************
+  2022-04-28 13:28:38 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:28:38 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:28:44 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:28:47 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:28:53 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:28:58 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:28:58 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:29:00 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:29:01 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:29:06 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:29:07 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:29:12 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:29:17 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:29:17 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:29:20 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:29:20 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:29:26 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:29:28 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:29:33 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:29:38 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:29:38 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:30:17 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:30:18 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:30:23 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:30:24 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:30:29 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:30:29 INFO  Cucumber Axess Website:131 - ****************Academy page clicked*************************
+  2022-04-28 13:30:30 INFO  Cucumber Axess Website:138 - ****************Verified Academy Page*************************
+  2022-04-28 13:30:30 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:30:33 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:30:33 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:30:38 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:30:39 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:30:44 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:30:49 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:30:49 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:30:52 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:30:52 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:31:04 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:31:05 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:31:11 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:31:16 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:31:16 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 13:31:18 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 13:31:19 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 13:31:24 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 13:31:25 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 13:31:30 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 13:31:35 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 13:31:35 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 14:49:17 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 14:49:17 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 14:49:29 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 14:49:30 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 14:49:36 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 14:49:36 INFO  Cucumber Axess Website:131 - ****************Academy page clicked*************************
+  2022-04-28 14:49:36 INFO  Cucumber Axess Website:138 - ****************Verified Academy Page*************************
+  2022-04-28 14:49:36 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 14:49:40 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 14:49:40 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 14:49:48 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 14:49:50 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 14:49:55 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 14:50:00 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 14:50:00 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 14:50:03 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 14:50:03 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 14:50:08 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 14:50:10 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 14:50:15 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 14:50:20 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 14:50:20 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 14:50:23 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 14:50:23 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 14:50:28 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 14:50:30 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 14:50:35 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 14:50:40 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 14:50:40 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:01:14 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:01:14 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:01:21 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:01:25 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:01:30 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:01:30 INFO  Cucumber Axess Website:131 - ****************Academy page clicked*************************
+  2022-04-28 17:01:31 INFO  Cucumber Axess Website:138 - ****************Verified Academy Page*************************
+  2022-04-28 17:01:34 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:01:35 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:01:45 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:01:49 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:01:55 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:02:00 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:02:00 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:02:03 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:02:03 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:02:09 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:02:10 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:02:16 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:02:21 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:02:21 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:02:24 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:02:24 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:02:31 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:02:34 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:02:39 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:02:44 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:02:44 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:03:38 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:03:39 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:03:45 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:03:46 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:03:51 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:03:51 INFO  Cucumber Axess Website:131 - ****************Academy page clicked*************************
+  2022-04-28 17:03:52 INFO  Cucumber Axess Website:138 - ****************Verified Academy Page*************************
+  2022-04-28 17:03:55 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:03:55 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:04:02 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:04:06 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:04:11 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:04:16 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:04:16 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:04:20 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:04:20 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:04:27 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:04:30 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:04:35 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:04:40 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:04:40 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:04:43 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:04:43 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:04:59 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:05:01 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:05:07 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:05:12 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:05:12 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
+  2022-04-28 17:06:28 INFO  Cucumber Axess Website:61 - ****************Launching Browser*************************
+  2022-04-28 17:06:28 INFO  Cucumber Axess Website:81 - ****************Navigating to Axess URL*************************
+  2022-04-28 17:06:35 INFO  Cucumber Axess Website:89 - ****************User Enters Username and Password*************************
+  2022-04-28 17:06:38 INFO  Cucumber Axess Website:98 - ****************Sign in Button clicked*************************
+  2022-04-28 17:06:43 INFO  Cucumber Axess Website:106 - ****************Page Title verified*************************
+  2022-04-28 17:06:48 INFO  Cucumber Axess Website:116 - ****************Logged out of Application*************************
+  2022-04-28 17:06:48 INFO  Cucumber Axess Website:123 - ****************Browser Closed************************
   

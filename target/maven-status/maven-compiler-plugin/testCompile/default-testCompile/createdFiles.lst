@@ -1,0 +1,5 @@
+stepDefinitions\ImplementedSteps.class
+pageObjects\AcademyPage.class
+pageObjects\LoginPage.class
+testRunner\Runner.class
+stepDefinitions\BaseClass.class
