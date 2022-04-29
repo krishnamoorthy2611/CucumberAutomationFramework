@@ -1,4 +1,4 @@
-Feature: CAcademy Page
+Feature: CAcademy Page 29 Apr
 
 Scenario: Verify the Academy page
 Given Launch Chrome Browser
