@@ -12,7 +12,7 @@ pipeline{
 					}
 		stage ('Testing Stage'){
 		steps{
-				withMaven(maven : 'E:\Ecilpse\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9') {
+				withMaven(maven : 'E:/Ecilpse/Maven/apache-maven-3.3.9-bin/apache-maven-3.3.9') {
 					sh 'mvn test'
 					}
 				}
@@ -20,7 +20,7 @@ pipeline{
 		}
 		stage ('deployment Stage'){
 		steps{
-				withMaven(maven : 'E:\Ecilpse\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9') {
+				withMaven(maven : 'E:/Ecilpse/Maven/apache-maven-3.3.9-bin/apache-maven-3.3.9') {
 					sh 'mvn deploy'
 					}
 				}
