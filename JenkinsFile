@@ -4,7 +4,7 @@ pipeline{
 				stage ('Compile Stage'){
 		
 					steps{
-						withMaven(maven : 'E:\Ecilpse\Maven\apache-maven-3.3.9-bin\apache-maven-3.3.9') {
+						withMaven(maven : 'E:/Ecilpse/Maven/apache-maven-3.3.9-bin/apache-maven-3.3.9') {
 						sh 'mvn clean compile'
 						}
 					}
