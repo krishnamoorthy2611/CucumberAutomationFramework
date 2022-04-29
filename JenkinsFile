@@ -9,20 +9,22 @@ pipeline{
 					sh 'mvn clean compile'
 					}
 				}
-		
+		}
 		}
 	
 	stages ('Testing Stage'){
 	
+		stage ('Testing Stage'){
 		steps{
 				withMaven(maven : 'apache-maven-3.3.9') {
 					sh 'mvn test'
 					}
 				}
 		}
+		}
 		
 		stages ('Deployment Stage'){
-	
+		stage ('deployment Stage'){
 		steps{
 				withMaven(maven : 'apache-maven-3.3.9') {
 					sh 'mvn deploy'
